@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm <strong>Kijeosowo Williams</strong></h1>
-<h3 align="center">Frontend Developer | React • Vue • JavaScript • Tailwind • React Native | Learning Backend</h3>
+<h1>👋 Hi, I'm <strong>Kijeosowo Williams</strong></h1>
+<h3>Frontend Developer | React • Next • React Native • JavaScript  • Typescript • Tailwind | Learning Backend</h3>
 
 ---
 
