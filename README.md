@@ -61,16 +61,6 @@ I specialize in creating modern, visually appealing, and functional UIs for both
 
 ---
 
-## 🎯 Goals for 2025
-- Build 2–3 production-ready mobile apps  
-- Improve backend engineering skills  
-- Work on more full-stack projects  
-- Contribute to open-source  
-- Build more beautiful UI-heavy interfaces  
-- Grow as a technical leader and mentor  
-
----
-
 ## 🤝 Professional Values
 - ✔️ Detail-oriented  
 - ✔️ Consistent  
@@ -103,17 +93,6 @@ I specialize in creating modern, visually appealing, and functional UIs for both
 - Onboarding Flows  
 - App navigation systems  
 - Firebase-integrated mobile apps  
-
-</details>
-
-<details>
-<summary><strong>🌐 Web Projects</strong></summary>
-
-- Dashboards  
-- School management systems  
-- EMR systems  
-- Landing pages  
-- Authentication systems  
 
 </details>
 
