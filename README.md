@@ -71,19 +71,6 @@ I specialize in creating modern, visually appealing, and functional UIs for both
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kijeosowo&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kijeosowo&layout=compact&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kijeosowo&theme=radical" height="180" />
-</p>
-
----
-
 ## 📁 Projects (Collapsible Sections)
 
 <details>
